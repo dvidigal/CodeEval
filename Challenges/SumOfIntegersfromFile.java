@@ -1,3 +1,4 @@
+// Diogo Vidigal, 26/05/2015, CodeEval
 //Print out the sum of integers read from a file.
 
 import java.io.*;

@@ -1,4 +1,4 @@
-*/CHALLENGE DESCRIPTION:
+/*CHALLENGE DESCRIPTION:
 
 In this challenge you're given a random string containing hidden and visible digits. 
 The digits are hidden behind lower case latin letters as follows: 

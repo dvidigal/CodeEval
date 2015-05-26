@@ -1,3 +1,4 @@
+// Diogo Vidigal, 25/05/2015, CodeEval
 /*CHALLENGE DESCRIPTION:
 
 In this challenge you're given a random string containing hidden and visible digits. 

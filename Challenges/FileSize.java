@@ -1,3 +1,5 @@
+// Diogo Vidigal, 26/05/2015, CodeEval
+
 import java.io.*;
 
 public class Main {

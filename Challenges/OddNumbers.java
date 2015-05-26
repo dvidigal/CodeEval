@@ -1,3 +1,4 @@
+// Diogo Vidigal, 26/05/2015, CodeEval
 //Print the odd numbers from 1 to 99.
 
 public class Main {
